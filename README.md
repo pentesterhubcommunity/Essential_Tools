@@ -1,2 +1,18 @@
 # Essential_Tools
-"Essential_Tools" houses a curated collection of indispensable utilities for penetration testers. Explore a range of essential tools like MAC changers, duplicate line removers, and filters tailored to streamline and enhance testing workflows. No hacking tools, just essential aids for efficient penetration testing.
+
+Welcome to Essential_Tools! This repository is dedicated to providing penetration testers with a comprehensive suite of essential utilities to streamline their workflows and enhance efficiency.
+
+## Tools Lists:
+
+- Duplicate Remover
+  
+
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Disclaimer
+
+**Essential_Tools** is intended for educational and ethical use only. The developers do not endorse or condone any illegal activities conducted using these tools. Users are responsible for complying with all applicable laws and regulations.
