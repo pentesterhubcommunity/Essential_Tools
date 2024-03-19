@@ -4,7 +4,7 @@ Welcome to Essential_Tools! This repository is dedicated to providing penetratio
 
 ## Tools Lists:
 
-- Duplicate Remover
+- [Duplicate Lines Remover](https://github.com/saidehossain/Essential_Tools/blob/main/Tools/duplicate_remover.sh)
   
 
 
